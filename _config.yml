@@ -6,16 +6,16 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-url: https://reasoning-machine.github.io
+url: https://coordinating-machine.github.io
 baseurl: /gemini
 
-title: Reasoning Machine
+title: Coordinating Machine
 description: This is a machine that reasons.
 
 machine:
-  name: Reasoning-Machine
-  verb: Reasoning
-  instructions_file: reasoning.txt
+  name: Coordinating-Machine
+  verb: Coordinating
+  instructions_file: coordinating.txt
   token: gemini.txt
   apiUrl: https://generativelanguage.googleapis.com/v1beta/models/
 

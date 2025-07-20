@@ -1,1 +1,1 @@
-### Reasoning Machine (gemini)
+### Coordinating Machine (gemini)
